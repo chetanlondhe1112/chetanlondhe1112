@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 ### 🔭 I am Chetan, Python Developer and aspiring DataScientist.
 ## Contact :
-### Connect with me:
-https://www.linkedin.com/in/chetanlondhe333/
+- [Facebook](https://www.facebook.com/YourPageName) 
+- [Twitter](https://twitter.com/YourHandle) 
+- [LinkedIn](https://www.linkedin.com/in/YourProfile) 
+- [Instagram](https://www.instagram.com/YourProfile) 
+- [GitHub](https://github.com/YourUsername) 
