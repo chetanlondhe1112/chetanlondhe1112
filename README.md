@@ -27,13 +27,13 @@ Here are some ideas to get you started:
     <a href="https://twitter.com/YourHandle">
         <img src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg?w=360" alt="Twitter" width="40" height="40" />
     </a>
-    <a href="https://www.linkedin.com/in/YourProfile">
+    <a href="https://www.linkedin.com/in/chetanlondhe333/">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s" alt="LinkedIn" width="40" height="40" />
     </a>
     <a href="https://www.instagram.com/YourProfile">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" />
     </a>
-    <a href="https://github.com/YourUsername">
+    <a href="https://github.com/chetanlondhe1112">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40" />
     </a>
 </div>
