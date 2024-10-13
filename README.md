@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <a href="https://www.facebook.com/YourPageName">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40" />
     </a>
-    <a href="https://twitter.com/YourHandle">
+    <a href="https://twitter.com/chetanlondhe333">
         <img src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg?w=360" alt="Twitter" width="40" height="40" />
     </a>
     <a href="https://www.linkedin.com/in/chetanlondhe333/">
