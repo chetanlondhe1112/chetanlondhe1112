@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </a>
 <br>
 <a href="https://twitter.com/YourHandle">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="Twitter" width="40" height="40" />
+    <img src="https://i.pinimg.com/originals/2f/b9/09/2fb909b74a854f0715e64dda5825990d.jpg" alt="Twitter" width="40" height="40" />
 </a>
 <br>
 <a href="https://www.linkedin.com/in/YourProfile">
