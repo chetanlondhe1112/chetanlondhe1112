@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔭 I’m currently working on projects related to Machine Learning,Artificial Intelligence,Automation and Intersystem Communications.  
-## 🌱 I’m currently learning DataScience, AI tools, Communication Brokers.
-## 👯 I’m looking to collaborate on Artifical Intelligence project for Enhancing my ideas for Artificial Inteligence for School and Defence.
-### 🔭 I am Chetan, Python Developer and aspiring DataScientist.
+## 🔭 I am Chetan, Python Developer and aspiring DataScientist.
+
+### 🔭 I’m currently working on projects related to Machine Learning,Artificial Intelligence,Automation and Intersystem Communications.  
+### 🌱 I’m currently learning DataScience, AI tools, Communication Brokers.
+### 👯 I’m looking to collaborate on Artifical Intelligence project for Enhancing my ideas for Artificial Inteligence for School and Defence.
 ## Contact :
 - [Facebook](https://www.facebook.com/YourPageName) 
 - [Twitter](https://twitter.com/YourHandle) 
