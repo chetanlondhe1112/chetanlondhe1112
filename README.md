@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning DataScience, AI tools, Communication Brokers.
 ### 👯 I’m looking to collaborate on Artifical Intelligence project for Enhancing my ideas for Artificial Inteligence for School and Defence.
 ## Contact :
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 40px;">
     <a href="https://www.facebook.com/YourPageName">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40" />
     </a>
