@@ -25,7 +25,7 @@ Here are some ideas to get you started:
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40" />
     </a>
     <a href="https://twitter.com/YourHandle">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="Twitter" width="40" height="40" />
+        <img src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-official-vector-download_691560-10797.jpg?w=360" alt="Twitter" width="40" height="40" />
     </a>
     <a href="https://www.linkedin.com/in/YourProfile">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40" />
