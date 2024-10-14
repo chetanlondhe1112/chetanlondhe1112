@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working on projects related to Machine Learning,Artificial Intelligence,Automation and Intersystem Communications.  
 ### 🌱 I’m currently learning DataScience, AI tools, Communication Brokers.
 ### 👯 I’m looking to collaborate on Artifical Intelligence project for Enhancing my ideas for Artificial Inteligence for School and Defence.
+
+![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetanlondhe1112&show_icons=true&theme=transparent)
+
 ## Contact :
 <div style="display: flex; gap: 40px;">
     <a href="https://www.facebook.com/YourPageName">
