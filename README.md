@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ### 👯 I’m looking to collaborate on Artifical Intelligence project for Enhancing my ideas for Artificial Inteligence for School and Defence.
 
 ![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetanlondhe1112&show_icons=true&theme=transparent)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanlondhe1112&layout=compact)
 
 ## Contact :
