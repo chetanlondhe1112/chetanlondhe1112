@@ -1,26 +1,10 @@
-## Hi there 👋
-
-<!--
-**chetanlondhe1112/chetanlondhe1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on projects related to Machine Learning,Artificial Intelligence,Automation and Intersystem Communications.  
-- 🌱 I’m currently learning DataScience, AI tools, Communication Brokers.
-- 👯 I’m looking to collaborate on Artifical Intelligence project for Enhancing my ideas for Artificial Inteligence in Education and Defence fields.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋
 ## 🔭 I am Chetan, Python Developer and aspiring DataScientist.
-
 ### 🔭 I’m currently working on projects related to Machine Learning,Artificial Intelligence,Automation and Intersystem Communications.  
 ### 🌱 I’m currently learning DataScience, AI tools, Communication Brokers.
 ### 👯 I’m looking to collaborate on Artifical Intelligence project for Enhancing my ideas for Artificial Inteligence for School and Defence.
 
-## My Git Stats:
+## My Git Stats :
 ![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetanlondhe1112&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanlondhe1112&layout=donut)](https://github.com/chetanlondhe1112/github-readme-stats)
 
