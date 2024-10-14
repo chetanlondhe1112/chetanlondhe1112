@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanlondhe1112&layout=donut)](https://github.com/chetanlondhe1112/github-readme-stats)
 
 ## Contact :
-<div style="display: flex; gap: 40px;">
+<div style="display: flex; justify-content: center; gap: 40px;">
     <a href="https://www.facebook.com/YourPageName">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40" />
     </a>
